@@ -40,22 +40,16 @@
 - 🤓 **Pragmatic builder:** Node.js + .NET 8 APIs, React UIs—type-safe, test-driven, fast.  
 - 🌱 **Learning:** **Go**, **Solidity**, **Blockchain**  
 - 💬 **Ask me about:** **.NET 8, Node.js**  
-- 📫 **Reach me:** **felix.david21@outlook.com**
 
 ---
 
-## What I bring
-- Design and ship **production web apps** end-to-end: APIs, services, and React UIs  
-- Build **scalable REST APIs & microservices** with clean architecture and tests  
-- Drive **CI/CD** (build, test, security scan, deploy) and strong **observability**  
-- Collaborate with product/design and stakeholders to deliver business outcomes  
 
 ## Toolbox
-**Back end:** .NET 8 · C# · ASP.NET Core · Node.js · TypeScript · REST · gRPC  
-**Front end:** React · React Query · Vite · Tailwind · Jest/RTL · Playwright  
-**Data & caching:** SQL Server · PostgreSQL · EF Core · Redis  
-**Cloud & DevOps:** Azure/AWS · Docker · GitHub Actions · Azure DevOps · CodeQL  
-**Practices:** Clean Architecture · SOLID · Domain-Driven Design · trunk-based dev  
+- **Back end:** .NET 8 · C# · ASP.NET Core · Node.js · TypeScript · REST · gRPC  
+- **Front end:** React · React Query · Vite · Tailwind · Jest/RTL · Playwright  
+- **Data & caching:** SQL Server · PostgreSQL · EF Core · Redis  
+- **Cloud & DevOps:** Azure/AWS · Docker · GitHub Actions · Azure DevOps · CodeQL  
+- **Practices:** Clean Architecture · SOLID · Domain-Driven Design · trunk-based dev  
 
 ---
 
@@ -73,15 +67,9 @@
 
 ---
 
-## Projects
-- **package-analyzer** — https://github.com/Morzkat/package-analyzer  
-- **SmartTrinity** — https://github.com/Morzkat/SmartTrinity  
-
-> I’ll be more active here and adding more projects soon. 😁
-
----
-
 ## Contact
 - 📫 Email: [felix.david21@outlook.com](mailto:felix.david21@outlook.com)  
 - 🔗 LinkedIn: https://www.linkedin.com/in/morzkat  
 - 🧑‍💻 GitHub: https://github.com/morzkat
+
+> I’ll be more active here and adding more projects soon. 😁
